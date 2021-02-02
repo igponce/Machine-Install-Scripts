@@ -8,3 +8,4 @@ Just bash filename and wait for installation to end.
 | File | Description |
 |------|-------------|
 | ubuntu-tensorflow-jupyterlab.sh | Installs Jupyterlab and Tensorflow on Ubuntu |
+| ubuntu-airflow-local.sh | Installs [Apache Aiflow](https://airflow.apache.org) on a machine |
